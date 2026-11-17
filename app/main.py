@@ -1,3 +1,7 @@
+# Copyright (c) 2026 Muhamad Rizal Hidayat. All Rights Reserved.
+# Licensed strictly for technical evaluation purposes only.
+# Commercial use, redistribution, or production deployment without written consent is prohibited.
+
 from fastapi import Depends, FastAPI, Request, status
 from fastapi.exceptions import RequestValidationError
 from fastapi.responses import JSONResponse

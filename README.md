@@ -1,3 +1,10 @@
+## Author & Copyright
+
+**Author:** Muhamad Rizal Hidayat  
+**License:** All Rights Reserved — Evaluation Use Only  
+
+Copyright © 2026 **Muhamad Rizal Hidayat**. This repository is shared publicly strictly for technical portfolio and recruitment evaluation purposes. Any commercial use, redistribution, or integration into production systems without explicit written permission from the author is strictly prohibited.
+
 # Automated Multi-Platform Posting System
 
 A production-ready **FastAPI** REST API service that validates short promotional messages and concurrently broadcasts them across **5 third-party platforms** in a single request using asynchronous HTTP (`HTTPX`).
